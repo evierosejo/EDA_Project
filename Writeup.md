@@ -14,7 +14,7 @@ deploy their street teams to places where they will have the largest audience an
 
 ## Data
 The dataset contains entry and exit register values for each turnstile in every subway station for three months from 00:00:00 on 05/29/2021 to 23:59:56 on 08/27/2021. 
-A single turnstile is designated by a unique combination of values for C/A, Unit, and SCP. Each turnstile recieves six audits per day, normally every four hours. 
+A single turnstile is designated by a unique combination of values for C/A, Unit, and SCP. Each turnstile receives six audits per day, normally every four hours. 
 The dataset contains information from 2,722,581 audits with 11 features. 
 
 ## Algorithms
