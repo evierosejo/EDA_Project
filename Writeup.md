@@ -4,12 +4,12 @@ Evelyn Johnson
 ## Abstract
 The goal of this project was to assist WTWY in optimizing the canvassing work of their street teams. In order to accomplish this, I worked with New York City turnstile
 entry and exit data provided by the Metropolitan Transportation Authority (MTA) to find the busiest subway stations and the days of the week with the 
-most foot traffic for those stations. After the data was cleaned and compiled into the appropriate dataframes, I created visualizations to communicate my results
+most foot traffic for those stations. After the data was cleaned and compiled into the appropriate data frames, I created visualizations to communicate my results
 using Seaborn. 
 
 ## Design
 The project was centered around WTWY's directive to optimize the work of their street teams, thereby, attaining the most signatures from those who will 
-recieve a free ticket to their gala and increasing the gala's attendance.  Determining the busiest stations and days of the week would enable WTWY to 
+receive a free ticket to their gala and increasing the gala's attendance.  Determining the busiest stations and days of the week would enable WTWY to 
 deploy their street teams to places where they will have the largest audience and the widest reach.
 
 ## Data
