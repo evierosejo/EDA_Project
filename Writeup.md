@@ -37,3 +37,11 @@ using the individual turnstile data for three months.
 
 ## Communication
 Along with this writeup, I have created a presentation detailing the methodology and results of this project. 
+
+
+![ten_busiest_stations](https://user-images.githubusercontent.com/84474016/133800265-93f305c2-28df-4bdf-a98a-0e8eae961da4.png)
+
+![ten_busiest_stations_exits](https://user-images.githubusercontent.com/84474016/133800282-46fa46d5-02a2-4f1a-b78c-64e83a85c910.png)
+
+![stations_by_weekday](https://user-images.githubusercontent.com/84474016/133800299-9a8601f6-6124-40a1-974f-ab9ea97be9e4.png)
+
